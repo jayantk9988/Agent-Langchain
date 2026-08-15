@@ -1008,15 +1008,3 @@ This project was created as part of my learning journey in:
 - LLM Applications
 
 ---
-
-# ⭐ If You Found This Useful
-
-If you're learning about AI agents and LangChain, feel free to explore the code, experiment with different tools, and build your own agent workflows.
-
----
-
-## 📜 License
-
-This project is intended for educational purposes.
-
-You are free to modify and experiment with the code for your own learning.
